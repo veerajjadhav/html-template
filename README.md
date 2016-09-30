@@ -1,4 +1,4 @@
 Outset
 ===
 
-"Outset" my first WordPress theme.
+Its a new Web-page.Consisting of pure Html and css only.
