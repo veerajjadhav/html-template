@@ -319,7 +319,6 @@ h2{
     .left-content,.right-content{
         width:100%;
         max-width: 100%;
-
     }
     .menu-icon{
         display:block;
@@ -336,7 +335,8 @@ h2{
     }
     .navigation a{
         display: block;
-        border-bottom:2px solid red;
+        font-weight:300;
+        border-bottom: 1px solid #e5474b;;
     }
 
     .menu-icon:hover  +.navigation{
